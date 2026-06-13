@@ -1,15 +1,21 @@
-# 이태겸 · kingcat47
+# 이태겸
 
 선린인터넷고등학교 재학 중인 프론트엔드 개발자입니다.
-정보보호와 AI에 관심이 많고, 특히 데이터가 서버로 나가지 않는 시스템을 만드는 데 집중하고 있습니다.
+정보보호와 AI에 관심이 많습니다.
 
 ---
 
 ## 기술
 
-**주력** — TypeScript, React, C
+**주력** — TypeScript, React
 
-**사용 가능** — Kotlin, Python, NestJS, Node.js, Firebase
+**사용 가능** — C, Kotlin, Python, NestJS, Node.js, Firebase
+
+---
+
+## 수상
+
+제10회 전국 고등학교 동아리 소프트웨어 경진대회 — 은상 (KAIST 총장상)
 
 ---
 
