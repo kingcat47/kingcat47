@@ -10,7 +10,8 @@
       "Bash(python -m git_filter_repo --version)",
       "Bash(pip show:*)",
       "Bash(GFR=\"C:/Users/leetaegyeom/AppData/Roaming/Python/Python313/Scripts/git-filter-repo.exe\")",
-      "Bash(\"$GFR\" --version)"
+      "Bash(\"$GFR\" --version)",
+      "WebSearch"
     ]
   }
 }
