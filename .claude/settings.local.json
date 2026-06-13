@@ -1,0 +1,16 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(gh repo:*)",
+      "Bash(curl -s \"https://api.github.com/users/kingcat47/repos?per_page=50&sort=updated\")",
+      "Bash(git filter-repo:*)",
+      "Bash(pip install:*)",
+      "Bash(python3:*)",
+      "Bash(where git-filter-repo:*)",
+      "Bash(python -m git_filter_repo --version)",
+      "Bash(pip show:*)",
+      "Bash(GFR=\"C:/Users/leetaegyeom/AppData/Roaming/Python/Python313/Scripts/git-filter-repo.exe\")",
+      "Bash(\"$GFR\" --version)"
+    ]
+  }
+}
