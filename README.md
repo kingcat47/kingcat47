@@ -7,13 +7,21 @@
 
 ## 기술
 
-**Language** — TypeScript · JavaScript · C · Python · Kotlin
+**Language**
 
-**Frontend** — React · Vite · Sass/SCSS · ESLint
+![](https://skillicons.dev/icons?i=ts,js,c,python,kotlin)
 
-**Backend** — NestJS · Node.js · Firebase
+**Frontend**
 
-**Tools** — Android Studio · Figma · Git · Vercel
+![](https://skillicons.dev/icons?i=react,vite,sass,eslint)
+
+**Backend**
+
+![](https://skillicons.dev/icons?i=nest,nodejs,firebase,postgres)
+
+**Tools**
+
+![](https://skillicons.dev/icons?i=androidstudio,figma,git,vercel)
 
 ---
 
