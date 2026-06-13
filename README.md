@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0a0a0a&height=180&text=kingcat47&fontColor=ff003c&fontSize=50&fontAlignY=35&desc=Frontend%20Dev%20%7C%20Security%20%26%20AI&descAlignY=58&descColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=fcec0c&height=180&text=kingcat47&fontColor=0a0a0a&fontSize=50&fontAlignY=35&desc=Frontend%20Dev%20%7C%20Security%20%26%20AI&descAlignY=58&descColor=0a0a0a)
 
 # 이태겸
 
@@ -55,4 +55,4 @@ https://github.com/kingcat47/cpu
 Kotlin · Local LLM · RAG
 https://github.com/kingcat47/CHISA
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0a0a0a&height=100&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=fcec0c&height=100&section=footer)
