@@ -1,4 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=fcec0c&height=180&text=kingcat47&fontColor=0a0a0a&fontSize=50&fontAlignY=35&desc=Frontend%20Dev%20%2F%20Security%20%2B%20AI&descAlignY=58&descColor=0a0a0a)
+<div align="center">
+  <img src="./banner-neon.gif" alt="header" width="100%" />
+</div>
 
 <div align="center">
 
