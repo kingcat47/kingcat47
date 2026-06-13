@@ -7,9 +7,13 @@
 
 ## 기술
 
-**주력** — TypeScript, React
+**Language** — TypeScript · JavaScript · C · Python · Kotlin
 
-**사용 가능** — C, Kotlin, Python, NestJS, Node.js, Firebase
+**Frontend** — React · Vite · Sass/SCSS · ESLint
+
+**Backend** — NestJS · Node.js · Firebase
+
+**Tools** — Android Studio · Figma · Git · Vercel
 
 ---
 
