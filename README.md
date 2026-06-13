@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=0a0a0a&height=180&text=kingcat47&fontColor=ff003c&fontSize=50&fontAlignY=35&desc=Frontend%20Dev%20%7C%20Security%20%26%20AI&descAlignY=58&descColor=ffffff)
+
 # 이태겸
 
 선린인터넷고등학교 재학 중인 프론트엔드 개발자입니다.
@@ -22,6 +24,13 @@
 **Tools**
 
 ![](https://skillicons.dev/icons?i=androidstudio,figma,git,vercel)
+
+---
+
+## 코딩 통계
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ---
 
@@ -52,3 +61,5 @@ https://github.com/kingcat47/cpu
 로컬 LLM + RAG로 기기 안에서 파일을 분석·분류·리네이밍. 데이터는 서버로 나가지 않음.
 Kotlin · Local LLM · RAG
 https://github.com/kingcat47/CHISA
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0a0a0a&height=100&section=footer)
